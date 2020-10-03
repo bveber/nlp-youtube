@@ -4,7 +4,7 @@ from youtube_transcript_api import YouTubeTranscriptApi
 from youtube_transcript_api._errors import TranscriptsDisabled
 
 
-API_KEY = 'Enter your api key here'
+API_KEY = 'Enter your Google API key here'
 # Specify playlist ID, the value below is for all YMH episodes
 playlist_id = 'PL-i3EV1v5hLd9H1p2wT5ZD8alEY0EmxYD'
 
